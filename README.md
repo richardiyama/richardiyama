@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardiyama
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Building a world class Application
-- 💞️ I’m looking to collaborate on Great Software Developers
+- 💞️ I’m looking to collaborate with great Software Developers
 - 📫 How to reach me: richardiyama@yahoo.com or iyamarichard@gmail.com
 
 <!---
